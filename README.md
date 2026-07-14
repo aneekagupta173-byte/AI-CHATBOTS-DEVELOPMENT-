@@ -42,42 +42,13 @@ An AI-powered conversational chatbot built using **Python**, **Streamlit**, and 
 AI-Chatbot/
 │
 ├── app.py
-├── requirements.txt
 ├── README.md
-├── utils.py
-├── prompts.py
-└── assets/
+├── prompts.txt
 ```
 
 ---
 
-## ⚙️ Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/AI-Chatbot.git
-```
-
-Navigate into the project
-
-```bash
-cd AI-Chatbot
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application
-
-```bash
-streamlit run app.py
-```
-
----
 
 ## 🎯 Key Functionalities
 
@@ -116,22 +87,6 @@ streamlit run app.py
 - Conversation analytics
 
 ---
-
-## 📸 Preview
-
-*Add screenshots or a demo GIF here.*
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 👩‍💻 Author
-
-**Aneeka Gupta**
 
 Robotics & Artificial Intelligence Undergraduate  
 Passionate about Artificial Intelligence, Machine Learning, and Product Development.
